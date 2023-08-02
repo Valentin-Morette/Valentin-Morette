@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
 <h3 align="center">I am a web developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://valentin-morette.github.io/portfolio/](https://valentin-morette.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://valentin-morette.github.io/portfoliov2/](https://valentin-morette.github.io/portfoliov2/)
 
 - 📫 How to reach me **morette.valentin@gmail.com**
 
